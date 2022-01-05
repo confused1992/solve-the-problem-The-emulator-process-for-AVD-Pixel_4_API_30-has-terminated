@@ -1,0 +1,1 @@
+# solve-the-problem-The-emulator-process-for-AVD-Pixel_4_API_30-has-terminated
